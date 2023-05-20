@@ -1,0 +1,1763 @@
+[
+    {
+        "predicted": "242.92378000000002",
+        "actual": "243.00000000000003",
+        "Date": "January"
+    },
+    {
+        "predicted": "241.32519000000002",
+        "actual": "240.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "239.15577",
+        "actual": "235.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "234.6479",
+        "actual": "235.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "234.1269",
+        "actual": "229.99999999999997",
+        "Date": "January"
+    },
+    {
+        "predicted": "229.51198000000002",
+        "actual": "227.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "226.44858000000002",
+        "actual": "227.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "225.93583999999998",
+        "actual": "227.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "225.72973",
+        "actual": "235.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "232.5799",
+        "actual": "227.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "226.3671",
+        "actual": "233.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "231.31458999999998",
+        "actual": "233.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "231.53267",
+        "actual": "229.99999999999997",
+        "Date": "January"
+    },
+    {
+        "predicted": "229.17499999999998",
+        "actual": "227.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "226.40567",
+        "actual": "225.99999999999997",
+        "Date": "January"
+    },
+    {
+        "predicted": "225.15258999999998",
+        "actual": "235.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "232.59919",
+        "actual": "234.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "232.339",
+        "actual": "225.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "224.94671",
+        "actual": "222.00000000000003",
+        "Date": "January"
+    },
+    {
+        "predicted": "221.71986",
+        "actual": "220.00000000000003",
+        "Date": "January"
+    },
+    {
+        "predicted": "219.31905999999998",
+        "actual": "221.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "219.69821000000002",
+        "actual": "213.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "212.78719999999998",
+        "actual": "215.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "213.77036999999999",
+        "actual": "217.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "215.25328",
+        "actual": "215.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "213.72347",
+        "actual": "217.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "215.3482",
+        "actual": "219.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "217.16607",
+        "actual": "224.00000000000003",
+        "Date": "January"
+    },
+    {
+        "predicted": "221.68990000000002",
+        "actual": "235.0",
+        "Date": "January"
+    },
+    {
+        "predicted": "231.69634000000002",
+        "actual": "238.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "235.47172999999998",
+        "actual": "244.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "241.54586999999998",
+        "actual": "236.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "235.3621",
+        "actual": "235.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "234.24947",
+        "actual": "244.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "241.62116",
+        "actual": "238.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "236.90047",
+        "actual": "249.00000000000003",
+        "Date": "February"
+    },
+    {
+        "predicted": "246.41022999999998",
+        "actual": "252.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "249.64719999999997",
+        "actual": "245.00000000000003",
+        "Date": "February"
+    },
+    {
+        "predicted": "244.27278",
+        "actual": "237.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "237.14442",
+        "actual": "240.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "238.8962",
+        "actual": "269.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "264.13121",
+        "actual": "293.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "287.64114",
+        "actual": "285.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "283.20065",
+        "actual": "278.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "278.16553",
+        "actual": "269.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "269.72952000000004",
+        "actual": "264.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "264.37373",
+        "actual": "260.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "259.90166999999997",
+        "actual": "261.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "260.10427",
+        "actual": "256.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "255.49548",
+        "actual": "254.99999999999997",
+        "Date": "February"
+    },
+    {
+        "predicted": "254.35873999999998",
+        "actual": "254.99999999999997",
+        "Date": "February"
+    },
+    {
+        "predicted": "254.15123",
+        "actual": "252.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "251.5246",
+        "actual": "250.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "249.64101",
+        "actual": "252.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "251.17419",
+        "actual": "258.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "256.49486",
+        "actual": "252.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "251.72924999999998",
+        "actual": "242.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "242.94717",
+        "actual": "254.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "252.5006",
+        "actual": "236.0",
+        "Date": "February"
+    },
+    {
+        "predicted": "237.10917999999998",
+        "actual": "235.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "235.35566",
+        "actual": "237.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "236.20203",
+        "actual": "238.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "236.94985000000003",
+        "actual": "236.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "235.3151",
+        "actual": "229.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "230.06144",
+        "actual": "225.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "225.22063",
+        "actual": "227.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "227.0445",
+        "actual": "225.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "224.35420000000002",
+        "actual": "239.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "236.19354",
+        "actual": "236.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "234.57415",
+        "actual": "237.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "235.87061999999997",
+        "actual": "238.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "236.83405",
+        "actual": "238.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "236.94077",
+        "actual": "242.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "240.42208",
+        "actual": "240.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "238.95094",
+        "actual": "231.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "232.05018",
+        "actual": "229.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "228.76987",
+        "actual": "231.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "229.80404000000001",
+        "actual": "234.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "232.25992",
+        "actual": "231.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "230.79941000000002",
+        "actual": "234.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "232.54668999999998",
+        "actual": "234.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "232.68054",
+        "actual": "234.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "232.78677000000002",
+        "actual": "229.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "229.37264000000002",
+        "actual": "229.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "229.05772",
+        "actual": "229.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "228.84748",
+        "actual": "235.0",
+        "Date": "March"
+    },
+    {
+        "predicted": "233.08805999999998",
+        "actual": "231.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "230.87795",
+        "actual": "231.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "230.89101",
+        "actual": "231.99999999999997",
+        "Date": "March"
+    },
+    {
+        "predicted": "230.81242999999998",
+        "actual": "229.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "228.20597",
+        "actual": "229.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "227.94476",
+        "actual": "233.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "231.22373000000002",
+        "actual": "229.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "228.05452000000002",
+        "actual": "229.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "227.9199",
+        "actual": "229.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "227.77457",
+        "actual": "234.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "232.0381",
+        "actual": "245.00000000000003",
+        "Date": "April"
+    },
+    {
+        "predicted": "241.96389",
+        "actual": "244.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "242.18407000000002",
+        "actual": "241.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "240.13743",
+        "actual": "245.00000000000003",
+        "Date": "April"
+    },
+    {
+        "predicted": "243.5135",
+        "actual": "238.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "237.5874",
+        "actual": "236.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "235.46789",
+        "actual": "240.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "238.43865000000002",
+        "actual": "247.00000000000003",
+        "Date": "April"
+    },
+    {
+        "predicted": "244.6346",
+        "actual": "235.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "234.89544",
+        "actual": "227.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "227.5319",
+        "actual": "229.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "228.13902000000002",
+        "actual": "231.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "229.49226000000002",
+        "actual": "231.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "229.60787",
+        "actual": "235.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "233.17204",
+        "actual": "254.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "250.10981999999998",
+        "actual": "250.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "248.24563999999998",
+        "actual": "262.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "259.5701",
+        "actual": "242.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "242.90712000000002",
+        "actual": "227.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "229.17914000000002",
+        "actual": "257.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "253.19357",
+        "actual": "252.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "249.94228",
+        "actual": "254.99999999999997",
+        "Date": "April"
+    },
+    {
+        "predicted": "253.44357",
+        "actual": "270.0",
+        "Date": "April"
+    },
+    {
+        "predicted": "267.00654",
+        "actual": "268.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "266.38725",
+        "actual": "278.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "276.00212",
+        "actual": "271.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "270.38840999999996",
+        "actual": "263.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "263.41893999999996",
+        "actual": "242.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "244.2841",
+        "actual": "235.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "236.32811999999998",
+        "actual": "239.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "238.07428000000002",
+        "actual": "242.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "240.33952",
+        "actual": "231.99999999999997",
+        "Date": "May"
+    },
+    {
+        "predicted": "232.02345000000003",
+        "actual": "237.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "235.8395",
+        "actual": "239.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "237.62566999999999",
+        "actual": "239.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "237.9845",
+        "actual": "242.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "240.76430000000002",
+        "actual": "237.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "236.71381",
+        "actual": "229.99999999999997",
+        "Date": "May"
+    },
+    {
+        "predicted": "230.44549999999998",
+        "actual": "222.00000000000003",
+        "Date": "May"
+    },
+    {
+        "predicted": "222.7918",
+        "actual": "206.99999999999997",
+        "Date": "May"
+    },
+    {
+        "predicted": "208.94628000000003",
+        "actual": "202.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "202.81713",
+        "actual": "204.99999999999997",
+        "Date": "May"
+    },
+    {
+        "predicted": "203.89460000000003",
+        "actual": "200.99999999999997",
+        "Date": "May"
+    },
+    {
+        "predicted": "200.26099999999997",
+        "actual": "215.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "211.65974",
+        "actual": "214.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "211.95407",
+        "actual": "217.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "215.08409999999998",
+        "actual": "215.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "213.80894",
+        "actual": "216.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "214.64660000000003",
+        "actual": "216.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "214.6239",
+        "actual": "214.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "212.8804",
+        "actual": "215.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "213.47942",
+        "actual": "214.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "212.55546",
+        "actual": "225.0",
+        "Date": "May"
+    },
+    {
+        "predicted": "221.81304000000003",
+        "actual": "220.00000000000003",
+        "Date": "June"
+    },
+    {
+        "predicted": "218.42625",
+        "actual": "217.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "215.97512",
+        "actual": "217.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "215.61234",
+        "actual": "213.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "212.02478",
+        "actual": "208.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "207.36325",
+        "actual": "206.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "204.98369",
+        "actual": "214.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "211.22887",
+        "actual": "212.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "210.08263",
+        "actual": "212.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "210.26785",
+        "actual": "214.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "211.99740999999997",
+        "actual": "206.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "205.44374",
+        "actual": "208.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "206.48767999999998",
+        "actual": "211.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "208.81884",
+        "actual": "213.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "210.75783",
+        "actual": "215.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "212.77585000000002",
+        "actual": "218.00000000000003",
+        "Date": "June"
+    },
+    {
+        "predicted": "215.65789999999998",
+        "actual": "216.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "214.37435",
+        "actual": "215.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "213.53908",
+        "actual": "214.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "212.54373",
+        "actual": "212.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "210.67417",
+        "actual": "206.99999999999997",
+        "Date": "June"
+    },
+    {
+        "predicted": "206.17876",
+        "actual": "204.99999999999997",
+        "Date": "June"
+    },
+    {
+        "predicted": "203.89438",
+        "actual": "210.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "207.62093",
+        "actual": "200.99999999999997",
+        "Date": "June"
+    },
+    {
+        "predicted": "200.33165999999997",
+        "actual": "202.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "200.51758",
+        "actual": "200.99999999999997",
+        "Date": "June"
+    },
+    {
+        "predicted": "199.39532",
+        "actual": "198.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "196.72256",
+        "actual": "200.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "198.0275",
+        "actual": "198.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "196.37884",
+        "actual": "200.0",
+        "Date": "June"
+    },
+    {
+        "predicted": "197.89773",
+        "actual": "204.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "202.19967",
+        "actual": "215.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "211.2056",
+        "actual": "214.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "211.56516000000002",
+        "actual": "210.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "208.68359999999998",
+        "actual": "209.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "207.58972",
+        "actual": "208.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "206.45229999999998",
+        "actual": "213.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "210.43490999999997",
+        "actual": "216.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "213.3215",
+        "actual": "216.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "213.81233000000003",
+        "actual": "210.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "208.96341999999999",
+        "actual": "204.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "204.28557",
+        "actual": "206.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "204.37722",
+        "actual": "204.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "203.28224",
+        "actual": "211.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "208.19309",
+        "actual": "204.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "203.65155000000001",
+        "actual": "212.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "209.31206000000003",
+        "actual": "206.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "205.55715999999998",
+        "actual": "204.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "203.7141",
+        "actual": "204.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "203.36227",
+        "actual": "204.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "203.20307999999997",
+        "actual": "200.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "199.78491",
+        "actual": "202.99999999999997",
+        "Date": "July"
+    },
+    {
+        "predicted": "201.0539",
+        "actual": "192.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "191.85057999999998",
+        "actual": "200.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "197.45873",
+        "actual": "198.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "196.02771",
+        "actual": "195.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "193.5521",
+        "actual": "198.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "195.72899999999998",
+        "actual": "198.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "195.86984999999999",
+        "actual": "190.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "189.30423000000002",
+        "actual": "198.0",
+        "Date": "July"
+    },
+    {
+        "predicted": "195.1747",
+        "actual": "197.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "194.73178",
+        "actual": "206.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "202.43988000000002",
+        "actual": "195.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "194.13845999999998",
+        "actual": "199.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "196.86722",
+        "actual": "199.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "196.83489",
+        "actual": "199.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "196.87995",
+        "actual": "225.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "218.9041",
+        "actual": "235.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "229.90139",
+        "actual": "227.99999999999997",
+        "Date": "August"
+    },
+    {
+        "predicted": "226.05722",
+        "actual": "235.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "232.45702",
+        "actual": "245.00000000000003",
+        "Date": "August"
+    },
+    {
+        "predicted": "241.59565",
+        "actual": "247.00000000000003",
+        "Date": "August"
+    },
+    {
+        "predicted": "244.3733",
+        "actual": "240.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "238.97010999999998",
+        "actual": "244.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "242.17399999999998",
+        "actual": "239.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "237.82557999999997",
+        "actual": "238.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "236.71410000000003",
+        "actual": "229.99999999999997",
+        "Date": "August"
+    },
+    {
+        "predicted": "229.54146999999998",
+        "actual": "227.99999999999997",
+        "Date": "August"
+    },
+    {
+        "predicted": "227.13969999999998",
+        "actual": "220.00000000000003",
+        "Date": "August"
+    },
+    {
+        "predicted": "219.77129999999997",
+        "actual": "222.00000000000003",
+        "Date": "August"
+    },
+    {
+        "predicted": "220.65437",
+        "actual": "215.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "214.48634",
+        "actual": "222.00000000000003",
+        "Date": "August"
+    },
+    {
+        "predicted": "219.87443",
+        "actual": "213.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "212.55784000000003",
+        "actual": "206.99999999999997",
+        "Date": "August"
+    },
+    {
+        "predicted": "207.00266",
+        "actual": "200.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "200.23243000000002",
+        "actual": "220.00000000000003",
+        "Date": "August"
+    },
+    {
+        "predicted": "216.05482",
+        "actual": "229.99999999999997",
+        "Date": "August"
+    },
+    {
+        "predicted": "225.97961",
+        "actual": "240.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "236.35320000000002",
+        "actual": "222.00000000000003",
+        "Date": "August"
+    },
+    {
+        "predicted": "222.45429",
+        "actual": "223.0",
+        "Date": "August"
+    },
+    {
+        "predicted": "222.57935999999998",
+        "actual": "236.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "233.08053",
+        "actual": "242.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "239.08813000000004",
+        "actual": "225.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "225.42266999999998",
+        "actual": "225.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "224.51699",
+        "actual": "235.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "232.37076000000002",
+        "actual": "235.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "232.9438",
+        "actual": "235.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "233.38087000000002",
+        "actual": "229.99999999999997",
+        "Date": "September"
+    },
+    {
+        "predicted": "229.22772999999998",
+        "actual": "225.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "224.61033",
+        "actual": "223.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "222.26126000000002",
+        "actual": "225.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "223.48752",
+        "actual": "223.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "221.76163",
+        "actual": "225.99999999999997",
+        "Date": "September"
+    },
+    {
+        "predicted": "224.22783",
+        "actual": "235.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "232.17219999999998",
+        "actual": "238.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "235.66144000000003",
+        "actual": "234.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "232.96046",
+        "actual": "225.99999999999997",
+        "Date": "September"
+    },
+    {
+        "predicted": "226.07553000000001",
+        "actual": "222.00000000000003",
+        "Date": "September"
+    },
+    {
+        "predicted": "221.87492999999998",
+        "actual": "227.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "225.34179999999998",
+        "actual": "224.00000000000003",
+        "Date": "September"
+    },
+    {
+        "predicted": "222.82321000000002",
+        "actual": "206.99999999999997",
+        "Date": "September"
+    },
+    {
+        "predicted": "208.28903",
+        "actual": "235.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "230.58074",
+        "actual": "231.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "228.66387",
+        "actual": "229.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "227.79584000000003",
+        "actual": "225.99999999999997",
+        "Date": "September"
+    },
+    {
+        "predicted": "225.21925000000002",
+        "actual": "225.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "224.0746",
+        "actual": "231.99999999999997",
+        "Date": "September"
+    },
+    {
+        "predicted": "229.80833",
+        "actual": "225.99999999999997",
+        "Date": "September"
+    },
+    {
+        "predicted": "225.09448999999998",
+        "actual": "223.0",
+        "Date": "September"
+    },
+    {
+        "predicted": "222.33774999999997",
+        "actual": "229.99999999999997",
+        "Date": "September"
+    },
+    {
+        "predicted": "227.86746",
+        "actual": "224.00000000000003",
+        "Date": "October"
+    },
+    {
+        "predicted": "223.08545",
+        "actual": "229.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "228.01961999999997",
+        "actual": "235.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "232.61048999999997",
+        "actual": "240.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "237.59136",
+        "actual": "225.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "225.38657",
+        "actual": "229.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "228.82997999999998",
+        "actual": "235.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "232.87208",
+        "actual": "240.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "237.64017",
+        "actual": "235.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "233.95850000000002",
+        "actual": "233.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "232.19237",
+        "actual": "234.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "232.74859999999998",
+        "actual": "227.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "226.66037",
+        "actual": "224.00000000000003",
+        "Date": "October"
+    },
+    {
+        "predicted": "223.52657",
+        "actual": "225.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "223.78146999999998",
+        "actual": "224.00000000000003",
+        "Date": "October"
+    },
+    {
+        "predicted": "222.7665",
+        "actual": "229.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "226.96226",
+        "actual": "229.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "227.353",
+        "actual": "229.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "228.48277000000002",
+        "actual": "229.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "228.65648",
+        "actual": "234.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "232.18167",
+        "actual": "231.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "229.92765999999997",
+        "actual": "235.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "233.32899999999998",
+        "actual": "233.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "231.80725999999999",
+        "actual": "231.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "230.94480000000001",
+        "actual": "229.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "229.0728",
+        "actual": "231.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "229.69384000000002",
+        "actual": "231.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "230.50497000000001",
+        "actual": "231.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "230.60076",
+        "actual": "234.0",
+        "Date": "October"
+    },
+    {
+        "predicted": "232.38869000000003",
+        "actual": "229.99999999999997",
+        "Date": "October"
+    },
+    {
+        "predicted": "229.1325",
+        "actual": "235.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "233.23884",
+        "actual": "231.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "230.88348000000002",
+        "actual": "224.00000000000003",
+        "Date": "November"
+    },
+    {
+        "predicted": "223.98731999999998",
+        "actual": "225.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "224.09031000000002",
+        "actual": "229.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "228.03078000000002",
+        "actual": "229.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "228.36583",
+        "actual": "225.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "225.17360000000002",
+        "actual": "224.00000000000003",
+        "Date": "November"
+    },
+    {
+        "predicted": "223.21868",
+        "actual": "217.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "216.9117",
+        "actual": "210.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "210.21407000000002",
+        "actual": "204.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "204.95264999999998",
+        "actual": "200.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "200.63581",
+        "actual": "211.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "208.25527",
+        "actual": "210.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "208.03859999999997",
+        "actual": "204.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "204.15928000000002",
+        "actual": "206.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "204.62699999999998",
+        "actual": "204.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "203.65007",
+        "actual": "210.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "207.7181",
+        "actual": "210.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "208.09176",
+        "actual": "213.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "210.83219999999997",
+        "actual": "195.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "196.02997",
+        "actual": "204.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "202.81709999999998",
+        "actual": "206.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "203.7165",
+        "actual": "210.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "207.37464",
+        "actual": "202.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "201.9609",
+        "actual": "213.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "209.98039999999997",
+        "actual": "214.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "211.47795",
+        "actual": "208.0",
+        "Date": "November"
+    },
+    {
+        "predicted": "206.90868",
+        "actual": "206.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "205.68182",
+        "actual": "204.99999999999997",
+        "Date": "November"
+    },
+    {
+        "predicted": "203.63889",
+        "actual": "202.99999999999997",
+        "Date": "December"
+    },
+    {
+        "predicted": "201.61319",
+        "actual": "199.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "197.90425",
+        "actual": "200.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "198.19424",
+        "actual": "200.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "198.04173",
+        "actual": "204.99999999999997",
+        "Date": "December"
+    },
+    {
+        "predicted": "202.21684",
+        "actual": "197.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "196.00862999999998",
+        "actual": "204.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "201.35977",
+        "actual": "200.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "198.36915",
+        "actual": "202.99999999999997",
+        "Date": "December"
+    },
+    {
+        "predicted": "200.74382000000003",
+        "actual": "200.99999999999997",
+        "Date": "December"
+    },
+    {
+        "predicted": "199.22401000000002",
+        "actual": "195.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "194.11858",
+        "actual": "198.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "195.94347000000002",
+        "actual": "189.0",
+        "Date": "December"
+    },
+    {
+        "predicted": "188.40605"
+    },
+    {
+        "predicted": "184.2045"
+    },
+    {
+        "predicted": "175.92108"
+    },
+    {
+        "predicted": "162.38251"
+    },
+    {
+        "predicted": "163.27996"
+    },
+    {
+        "predicted": "161.11841"
+    },
+    {
+        "predicted": "161.52409"
+    },
+    {
+        "predicted": "159.8702"
+    },
+    {
+        "predicted": "150.00085"
+    },
+    {
+        "predicted": "140.46742999999998"
+    },
+    {
+        "predicted": "134.52405000000002"
+    },
+    {
+        "predicted": "132.99053999999998"
+    },
+    {
+        "predicted": "144.19705"
+    },
+    {
+        "predicted": "150.64906"
+    },
+    {
+        "predicted": "152.08216000000002"
+    },
+    {
+        "predicted": "145.45883"
+    },
+    {
+        "predicted": "153.31622000000002"
+    }
+]
